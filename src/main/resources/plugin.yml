@@ -1,0 +1,9 @@
+name: Poll
+main: de.kyleonaut.poll.PollPlugin
+version: 1.0.0
+author: kyleonaut
+api-version: 1.16
+depend:
+  - ClickableMessageAPI
+commands:
+  poll:
